@@ -1,6 +1,7 @@
 ### 高可用的网站架构拓扑图
 
 ![](E:\desktop\lnmp\structure.png)
+![](structure.png)
 
 ###### 项目目标
 
